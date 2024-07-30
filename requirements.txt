@@ -1,0 +1,5 @@
+setuptools
+opencv-python
+cvzone
+screeninfo
+mediapipe
