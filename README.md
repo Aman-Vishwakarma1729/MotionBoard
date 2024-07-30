@@ -11,7 +11,6 @@
 4. [Demo](#demo)
 5. [Usage](#usage)
 6. [How to use](#how-to-use)
-7 . [Customization](#customization)
 
 ## Introduction
 ---------------
@@ -51,15 +50,4 @@ This project implements a virtual keyboard using computer vision techniques. The
 * Use the backspace key ("<") to delete characters.
 * Use the space key ("Space") to add spaces.
 * Use the enter key ("Enter") to submit the typed text.
-
-## Customization
-----------------
-* You can customize the keyboard layout by modifying the keys variable in the script:
-keys = [
-    ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "<"],
-    ["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"],
-    ["A", "S", "D", "F", "G", "H", "J", "K", "L", ";"],
-    ["Z", "X", "C", "V", "B", "N", "M", ",", ".", "/"],
-    ["Space", "Enter"]
-]
 
